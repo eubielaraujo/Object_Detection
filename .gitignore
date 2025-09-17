@@ -1,0 +1,15 @@
+datasets/images
+datasets/labels
+datasets/*jpeg
+runs/detect/train/*jpg
+tools/
+layers.py
+
+*.pt
+
+!best.pt
+!labels.jpg
+
+
+
+
